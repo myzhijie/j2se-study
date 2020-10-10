@@ -3,7 +3,7 @@ package com.jingsky.study.j2se;
 import java.util.ArrayList;
 import java.util.List;
 
-public class CollectionStudy {
+public class ListStudy {
 
     public static void main(String[] args) {
         //list特点：有序可以重复，链表结构擅长添加、修改、删除，但不擅长遍历

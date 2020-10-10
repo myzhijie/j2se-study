@@ -1,3 +1,4 @@
 # j2se-study
 J2SE学习项目目录：<br/>
-`CollectionStudy` List Map Set集合类学习示例
+`ListStudy` List类学习示例
+`MapStudy` Map类学习示例
