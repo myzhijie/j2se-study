@@ -1,4 +1,4 @@
-package com.jingsky.study.j2se;
+package com.jingsky.study.j2se.basic;
 
 
 import java.util.HashSet;
