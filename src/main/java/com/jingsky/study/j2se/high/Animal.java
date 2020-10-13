@@ -9,6 +9,8 @@ public class Animal { //默认都继承于Object类，每个类文件中必须�
     private String name;    //成员变量
     private static int eyesNum=2;    //类的静态变量，推荐用类名的方式访问
     private final int noseNum=1; //final修饰后，这个变量被赋值后不可以再进行修改
+    //这个成员变量是protected，可以在子类中访问到。
+    protected int legsNum;
 
     //就算不写任何构造函数，类会自动创建一个无参构造函数并且无任何内容，和下面的函数一样。
     //public Animal(){
