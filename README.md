@@ -4,3 +4,6 @@ J2SE学习项目目录：<br/>
 `MapStudy` Map类学习示例<br/>
 `SetStudy` Set类学习示例<br/>
 `Animal` 基础示例类<br/>
+`IAnimal` Animal接口类<br/>
+`AbstractAnimal` Animal抽象类<br/>
+`RealAnimal` Animal实现接口类<br/>
