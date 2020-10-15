@@ -17,4 +17,9 @@ public class Cat extends Animal{
         //子类中可以设置父类中protected的成员变量
         this.legsNum=legsNum;
     }
+
+    //打印下自己
+    public void printSelf(){
+        System.out.println("我是Cat");
+    }
 }

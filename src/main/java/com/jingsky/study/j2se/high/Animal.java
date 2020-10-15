@@ -29,6 +29,11 @@ public class Animal { //默认都继承于Object类，每个类文件中必须�
         this.name=name;
     }
 
+    //打印下自己
+    public void printSelf(){
+        System.out.println("我是Animal");
+    }
+
     //类的成员函数
     public void printName(){
         //非静态方法中可以调用静态方法或者静态变量
